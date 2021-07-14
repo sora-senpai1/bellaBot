@@ -37,10 +37,10 @@ keep_alive()
 # login
 
 
-Email = "elsjk73422@alotivi.com"
+Email = "rovawe9572@dghetian.com"
 
 
-Password = "Bella123@"
+Password = "ooo456ooo"
 
 
 # comId
