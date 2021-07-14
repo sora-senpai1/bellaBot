@@ -1,0 +1,6 @@
+Amino.py
+gtts
+google-trans-new
+wikipedia
+pytube
+BotAmino
