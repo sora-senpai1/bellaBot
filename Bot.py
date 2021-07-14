@@ -46,7 +46,7 @@ Password = "ooo456ooo"
 # comId
 
 
-comId = '162126963'
+comId = '29668451'
 
 
 # orginal White list urls
