@@ -31,6 +31,8 @@ from BotHelpers import Helper
 
 from collections import Counter
 
+from keep_alive import keep_alive
+keep_alive()
 
 # login
 
@@ -133,8 +135,7 @@ aaa = Helper(headers=client.headers, client=client, amino=amino)
 
 aaa.setCom(comId)
 
-from keep_alive import keep_alive
-keep_alive()
+
 wikipedia.set_lang('ar')
 
 
